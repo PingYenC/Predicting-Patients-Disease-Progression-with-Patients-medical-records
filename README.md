@@ -208,3 +208,14 @@ The document contains multiple functions relevant to data preprocessing, visuali
 
 #####
 ![image](https://github.com/PingYenC/Predictive-modeling-with-Object-Oriented-Programming/assets/164700831/e8721f15-dd04-40d8-96fc-fccd641dbc35)
+
+***
+***
+***
+## Conclusion
+The OOP codes allow future users (AbbVie) to transform the raw data into insightful deliveries, which includes the time-series concept due to the combinations of conditions. Furthermore, the codes allow users to build predictive models from the existing data (those patients' records proved to be relative to the case being studied and show the signs of disease progression) and make predictions on new data (patients who are to be forecast).
+#####
+The data here I used was a cancer patient dataset, which was messy and wasn't proven to show clear signs of cancer progression. Thus, the prediction accuracy was nothing special or notable. The purpose of applying the OOP codes was to test the usability of the OOP on different datasets, which was definitely shown in this case.
+#####
+I am working on applying the OOP to other datasets such as chronic kidney disease and diabetes and will update this file as soon as there are any results. What's more, there's a new and exciting function, which is called the "focus-condition" function, that allows users to choose the specific parts of the patients' condition journies as the training data and make predictions of "Whether and when the chosen disease will occur for this patient", is completed. I will add the summary of it here later.
+
