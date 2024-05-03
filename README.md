@@ -1,6 +1,6 @@
-# Predictive-modeling-with-Object-Oriented-Programming
+# Predictive modeling (XGBoost & Logistic-Regression) with Object-Oriented-Programming (OOP) using Python/SQL
 ## UCI MSBA in collaboration with AbbVie Capstone Project:
-Utilizing Python and SQL to forecast disease progression in patients through advanced analysis of medical record datasets (Condition-to-Condition Prediction).
+Utilizing Python and SQL to forecast disease progression in patients through advanced analysis of medical record datasets (Condition-to-Condition Prediction), considering condition sequence as a factor (time series concept).
 
 ## Goal:
 To optimize pharmaceutical production and improve individual healthcare strategies by leveraging extensive datasets of patient medical records.
